@@ -22,12 +22,10 @@ class Program
         // WriteData() Parameter Format (ignore things in brackets when entering):
         // "OutputFileName",
         // "TableName",
-        // ["ColumnName1", "ColumnName2", "ColumnName3", "ColumnName4"],
-        // ["InputFileName" (gets a random line from the file), "!R<RandMin>-<RandMax>" (gets a random number), "!L<LoopAmount>" (repeats the id), "!A" (auto increments)],
-        // NumberOfLines
+        // ["ColumnName1", "ColumnName2", "ColumnName3", "ColumnName4", "ColumnName5"],
+        // ["<InputFileName>" (gets a random line from the file), "!R<RandMin>-<RandMax>" (gets a random number), "!L<LoopAmount>" (repeats the id), "!A" (auto increments), "!S<InputFileName> (encrypted)],        // NumberOfLines
 
-        // Input Types
-        // !R<min>-<max> = Random number between <min> and <max>
+        // Input Types: R, L, A, S
 
         //write SQL
         // CHANGE / ADD THESE FUNCTIONS TO GENERATE STATEMENTS
