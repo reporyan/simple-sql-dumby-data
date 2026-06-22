@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbyDataGenerator", "DumbyDataGenerator\DumbyDataGenerator.csproj", "{7BC942C2-4AEA-4E75-AD00-3719D15EE796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC942C2-4AEA-4E75-AD00-3719D15EE796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC942C2-4AEA-4E75-AD00-3719D15EE796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC942C2-4AEA-4E75-AD00-3719D15EE796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC942C2-4AEA-4E75-AD00-3719D15EE796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66052B01-F4C2-4113-A522-EE36CFA8710B}
+	EndGlobalSection
+EndGlobal
